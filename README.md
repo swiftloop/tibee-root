@@ -1,0 +1,2 @@
+# tibee-root
+init
