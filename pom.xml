@@ -18,6 +18,9 @@
         <java.version>1.8</java.version>
     </properties>
 
-
+    <modules>
+        <module>tibee-server</module>
+        <module>tibee-server-repl</module>
+    </modules>
 
 </project>
